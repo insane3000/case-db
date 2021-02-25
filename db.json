@@ -1,0 +1,43 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "name": "case",
+      "brand": "corsair",
+      "model": "SPEC-OMEGA",
+      "thumbnail": "https://www.corsair.com/medias/sys_master/images/images/h43/h33/9112248025118/-CC-9011120-WW-Gallery-Carbide-Spec-Omega-RED-01.png",
+      "large": "",
+      "images": [
+        "https://www.corsair.com/medias/sys_master/images/images/h43/h33/9112248025118/-CC-9011120-WW-Gallery-Carbide-Spec-Omega-RED-01.png"
+      ],
+      "price": "90",
+      "energy": ""
+    },
+    {
+      "id": 2,
+      "name": "case",
+      "brand": "corsair",
+      "model": "570X RGB ATX",
+      "thumbnail": "https://www.corsair.com/medias/sys_master/images/images/h2a/h79/9110104539166/-CC-9011098-WW-Gallery-570X-RGB-01.png",
+      "large": "",
+      "images": [
+        "https://www.corsair.com/medias/sys_master/images/images/h2a/h79/9110104539166/-CC-9011098-WW-Gallery-570X-RGB-01.png"
+      ],
+      "price": "180",
+      "energy": ""
+    },
+    {
+      "id": 3,
+      "name": "case",
+      "brand": "corsair",
+      "model": "Carbide Series 275R",
+      "thumbnail": "https://www.corsair.com/medias/sys_master/images/images/h70/h78/9112212176926/-CC-9011133-WW-Gallery-275R-G-01.png",
+      "large": "",
+      "images": [
+        "https://www.corsair.com/medias/sys_master/images/images/h70/h78/9112212176926/-CC-9011133-WW-Gallery-275R-G-01.png"
+      ],
+      "price": "140",
+      "energy": 100
+    }
+  ]
+}
