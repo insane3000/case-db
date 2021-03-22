@@ -11,7 +11,7 @@
         "https://www.corsair.com/medias/sys_master/images/images/h43/h33/9112248025118/-CC-9011120-WW-Gallery-Carbide-Spec-Omega-RED-01.png"
       ],
       "price": "90",
-      "energy": ""
+      "energy": 0
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
         "https://www.corsair.com/medias/sys_master/images/images/h2a/h79/9110104539166/-CC-9011098-WW-Gallery-570X-RGB-01.png"
       ],
       "price": "180",
-      "energy": ""
+      "energy": 0
     },
     {
       "id": 3,
